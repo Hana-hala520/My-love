@@ -60,10 +60,10 @@ body {
 
 h1 {
   height: 550px;
-  width: 745px;
+  width: 750px;
   position: absolute;
-  left: 70%;
-  top: 40%;
+  left: 75%;
+  top: 55%;
   font-size: 50px;
   -webkit-text-stroke: 0.1vw rgb(226, 216, 23);
   text-transform: uppercase;
@@ -110,4 +110,5 @@ h1 {
     transform: translateX(-30%);
   }
 }
+
 
